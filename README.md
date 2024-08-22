@@ -9,13 +9,13 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш-логин/ваш-репозиторий.git
+    git clone https://github.com/s4evers/Parsing-Website.git
     ```
 
 2. Перейдите в директорию проекта:
 
     ```bash
-    cd ваш-репозиторий
+    cd Parsing-Website
     ```
 
 3. Установите зависимости:
